@@ -10,11 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TypeFox/monaco-languageclient",
-    "directory": "packages/vscode-ws-jsonrpc"
+    "url": "https://github.com/rabihaksaDTP/vscode-ws-jsonrpc.git",
   },
   "bugs": {
-    "url": "https://github.com/TypeFox/monaco-languageclient/issues"
+    "url": "https://github.com/rabihaksaDTP/vscode-ws-jsonrpc/issues"
   },
   "type": "module",
   "main": "./lib/index.js",

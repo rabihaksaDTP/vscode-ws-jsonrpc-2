@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rabihaksaDTP/vscode-ws-jsonrpc.git",
+    "url": "https://github.com/rabihaksaDTP/vscode-ws-jsonrpc",
   },
   "bugs": {
     "url": "https://github.com/rabihaksaDTP/vscode-ws-jsonrpc/issues"
